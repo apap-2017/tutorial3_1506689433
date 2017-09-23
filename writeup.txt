@@ -1,0 +1,22 @@
+
+
+
+
+a. Ringkasan :
+belajar penggunaan model dan service, serta perannya dalam Spring MVC Framework
+
+b. Jawaban pertanyaan
+1. Hasil : Page Add.html ter-render, data amhasiswa ditambahkan ke list
+2. Error : dikarenakan tidak memiliki querystring yang required
+3. Muncul
+4. Tidak, diaktrenakan penyimpanan model hanya menggunakan list yang hanya disimpan di memory dan tidka persistance seperti dengan database.
+5. Muncul
+6. Muncul
+
+Latihan :
+Create controller with path variable as parameter
+-> use select service that select by npm
+-> use select service that delete by npm
+
+c. Method select student dapat dilihat pada file
+d. fitur delete -> delete form array by searching first by npm
