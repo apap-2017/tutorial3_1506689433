@@ -1,7 +1,3 @@
-
-
-
-
 a. Ringkasan :
 belajar penggunaan model dan service, serta perannya dalam Spring MVC Framework
 
@@ -17,6 +13,8 @@ Latihan :
 Create controller with path variable as parameter
 -> use select service that select by npm
 -> use select service that delete by npm
+-> override error handling to meet spec
 
 c. Method select student dapat dilihat pada file
-d. fitur delete -> delete form array by searching first by npm
+
+d. fitur delete -> delete from array by searching first by npm, if not found throw exception
